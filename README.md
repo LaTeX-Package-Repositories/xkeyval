@@ -1,4 +1,4 @@
-xkeyval v2.9
+xkeyval v2.10
 ------------
 
 This package is an extension of the keyval package by David Carlisle
@@ -73,7 +73,7 @@ version 2003/12/01 or later.
 
 This work has the LPPL maintenance status "maintained".
 
-This Current Maintainer of this work is Hendri Adriaens.
+This Current Maintainer of this work is Hendri Adriaens and David Carlisle.
 
 This work consists of the file xkeyval.dtx and derived files
 keyval.tex, xkvtxhdr.tex, xkeyval.sty, xkeyval.tex, xkvview.sty,

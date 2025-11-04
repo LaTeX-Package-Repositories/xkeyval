@@ -1,41 +1,23 @@
 This is a generated file for the l3build validation system.
 Don't change this file in any respect.
+<example-image.pdf, id=1, 321.2pt x 240.9pt>
+File: example-image.pdf Graphic file (type pdf)
+<use example-image.pdf>
+Package pdftex.def Info: example-image.pdf  used on input line ....
+(pdftex.def)             Requested size: 321.19922pt x 240.8994pt.
 > \box...=
-\hbox(6.94444+1.94444)x153.80591
+\hbox(240.8994+0.0)x335.7826
 .\OT1/cmr/m/n/10 A
-.\OT1/cmr/m/n/10 a
-.\OT1/cmr/m/n/10 l
-.\OT1/cmr/m/n/10 t
-.\OT1/cmr/m/n/10 =
-.\OT1/cmr/m/n/10 A
-.\OT1/cmr/m/n/10 l
-.\OT1/cmr/m/n/10 t
-.\OT1/cmr/m/n/10 e
-.\OT1/cmr/m/n/10 r
-.\OT1/cmr/m/n/10 n
-.\OT1/cmr/m/n/10 a
-.\OT1/cmr/m/n/10 t
-.\OT1/cmr/m/n/10 i
-.\OT1/cmr/m/n/10 v
-.\kern-0.27779
-.\OT1/cmr/m/n/10 e
-.\OT1/cmr/m/n/10 ,
-.\glue 3.33333 plus 2.08331 minus 0.88889
-.\OT1/cmr/m/n/10 t
-.\OT1/cmr/m/n/10 e
-.\OT1/cmr/m/n/10 x
-.\OT1/cmr/m/n/10 t
-.\glue 3.33333 plus 1.66666 minus 1.11111
-.\OT1/cmr/m/n/10 f
-.\OT1/cmr/m/n/10 o
-.\OT1/cmr/m/n/10 r
-.\glue 3.33333 plus 1.66666 minus 1.11111
-.\OT1/cmr/m/n/10 i
-.\OT1/cmr/m/n/10 m
-.\OT1/cmr/m/n/10 a
-.\OT1/cmr/m/n/10 g
-.\OT1/cmr/m/n/10 e
-.\OT1/cmr/m/n/10 .
+.\hbox(240.8994+0.0)x321.19922
+..\hbox(240.9+0.0)x321.2
+...\hbox(240.9+0.0)x321.2
+....\hbox(240.9+0.0)x0.0
+.....\hbox(240.9+0.0)x0.0, glue set - 321.2fil
+......\hbox(240.9+0.0)x321.2
+.......\pdfrefximage(240.9+0.0)x321.2
+......\glue 0.0 plus 1.0fil minus 1.0fil
+....\kern 321.2
+....\glue 0.0 plus 1.0fil minus 1.0fil
 .\OT1/cmr/m/n/10 B
 ! OK.
 l. ...\showbox0
