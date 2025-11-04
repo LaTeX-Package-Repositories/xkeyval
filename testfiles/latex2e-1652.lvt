@@ -1,0 +1,13 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{xkeyval}
+\input{regression-test}
+
+\begin{document}
+
+\START
+% https://github.com/latex3/latex2e/issues/1652
+\setbox0\hbox{A\includegraphics[alt={Alternative, text for image.}]{example-image}B}
+\showbox0
+\END
+\end{document}
