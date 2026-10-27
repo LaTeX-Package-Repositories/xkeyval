@@ -29,6 +29,7 @@ to which a specific run file belongs, is denoted in between square
 brackets. Don't forget to update your filename database after installing
 the files.
 
+```
 CTAN:/macros/latex/contrib/xkeyval: official location
  |
  |- readme           : should not be installed
@@ -46,6 +47,7 @@ CTAN:/macros/latex/contrib/xkeyval: official location
  |   `- xkvtxhdr.tex : /tex/generic/xkeyval            [xkeyval]
  `- source
      `- xkeyval.dtx  : /source/latex/xkeyval
+```
 
 The package includes pregenerated run and doc files, but you can
 reproduce them from the source if necessary. See the first lines
